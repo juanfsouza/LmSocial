@@ -9,14 +9,14 @@
 </div>
 Adicionado:
 
-```bash
+```
 
 ✅ Next.js 15 App Router Pages and Layout
-</br>
+
 ✅ Next.js Responsive Navbar with Tailwind
-</br>
+
 ✅ React Next.js Hamburger Menu Design
-</br>
+
 ✅ Mobile First Design with Tailwind CSS
 </br>
 ✅ Next.js Authentication Structure
