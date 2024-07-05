@@ -1,10 +1,11 @@
 <div align="center">
-  LAMASOCIAL
+# LAMASOCIAL
   
 ![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/a75ad4af-581c-4544-81f7-3a5a59d62a7c)
 
-# Versão v1.0
-Adicionado: 
+## Versão v1.0
+Adicionado:
+
 ✅ Next.js 15 App Router Pages and Layout
 ✅ Next.js Responsive Navbar with Tailwind
 ✅ React Next.js Hamburger Menu Design
