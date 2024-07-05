@@ -8,6 +8,7 @@
 Adicionado:
 
 ✅ Next.js 15 App Router Pages and Layout
+</br>
 ✅ Next.js Responsive Navbar with Tailwind
 ✅ React Next.js Hamburger Menu Design
 ✅ Mobile First Design with Tailwind CSS
