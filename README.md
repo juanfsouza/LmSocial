@@ -32,6 +32,7 @@ Adicionado:
 ✅ Comments Section Design
 </br>
 ✅ React Next.js Rightbar (Menu) Design
+</br>
 
 <div align="center">
 
