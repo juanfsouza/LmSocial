@@ -5,10 +5,9 @@
 ![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/a75ad4af-581c-4544-81f7-3a5a59d62a7c)
 
 ## Versão v1.0
-Adicionado:
 
 </div>
-
+Adicionado:
 ✅ Next.js 15 App Router Pages and Layout
 </br>
 ✅ Next.js Responsive Navbar with Tailwind
