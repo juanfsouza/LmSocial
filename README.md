@@ -8,7 +8,9 @@
 
 </div>
 Adicionado:
+
 ```bash
+
 ✅ Next.js 15 App Router Pages and Layout
 </br>
 ✅ Next.js Responsive Navbar with Tailwind
