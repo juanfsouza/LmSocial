@@ -10,31 +10,18 @@
 Adicionado:
 
 ```
-
 ✅ Next.js 15 App Router Pages and Layout
-
 ✅ Next.js Responsive Navbar with Tailwind
-
 ✅ React Next.js Hamburger Menu Design
-
 ✅ Mobile First Design with Tailwind CSS
-</br>
 ✅ Next.js Authentication Structure
-</br>
 ✅ Next.js 15 Clerk Auth
-</br>
 ✅ Next.js Social Media App Homepage Design
-</br>
 ✅ User Stories Component Design
-</br>
 ✅ Social Media App New Post Component Design
-</br>
 ✅ React Next.js Social Media App Post Card Design
-</br>
 ✅ Comments Section Design
-</br>
 ✅ React Next.js Rightbar (Menu) Design
-</br>
 ```
 
 <div align="center">
