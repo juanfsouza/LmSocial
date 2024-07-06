@@ -45,6 +45,7 @@ Adicionado:
 
 ![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/b742e5c3-ae5a-48fa-8d8c-d92903bcab5e)
 
+![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/50b268d8-c424-4510-b29e-2191efa53e8a)
 
 </div>
 
