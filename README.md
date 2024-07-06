@@ -46,6 +46,8 @@ Adicionado:
 
 </div>
 
+## Versão v1.1
+
 Adicionado:
 
 ```
