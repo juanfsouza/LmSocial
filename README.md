@@ -45,8 +45,11 @@ Adicionado:
 ![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/b742e5c3-ae5a-48fa-8d8c-d92903bcab5e)
 
 </div>
-
+<div align="center">
+  
 ## Versão v1.1
+
+</div>
 
 Adicionado:
 
