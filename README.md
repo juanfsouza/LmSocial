@@ -38,13 +38,29 @@ Adicionado:
 ✅ Social Media App New Post Component Design
 ✅ React Next.js Social Media App Post Card Design
 ✅ Comments Section Design
-✅ React Next.js Rightbar (Menu) Design
 ```
 
 <div align="center">
 
 ![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/b742e5c3-ae5a-48fa-8d8c-d92903bcab5e)
 
+</div>
+<div align="center">
+  
+## Versão v1.1
+
+</div>
+
+Adicionado:
+
+```
+✅ React Next.js Rightbar (Menu) Design
+✅ React Next.js Lefttbar (Menu) Design
+✅ React Next.js Social Media App User Profile Page Design
+```
+<div align="center">
+  
+![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/50b268d8-c424-4510-b29e-2191efa53e8a)
 
 </div>
 
