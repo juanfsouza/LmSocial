@@ -1,17 +1,18 @@
-/** @type {import('next').NextConfig} */
+// next.config.js
 const nextConfig = {
   experimental: {
+    runtime: 'nodejs',
     reactCompiler: true,
-    ppr: 'incremental'
+    ppr: 'incremental',
   },
   images: {
     remotePatterns: [
       {
         protocol: 'https',
         hostname: 'images.pexels.com',
-      }
-    ]
-  }
+      },
+    ],
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;

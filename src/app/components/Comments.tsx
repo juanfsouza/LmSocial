@@ -13,7 +13,7 @@ export const Comments = () => {
                 height={32}
                 className='w-8 h-8 rounded-full'
             />
-            <div className='flex-1 flex itmes-center justify-between bg-slate-100 rounded-xl text-sm px-6 py-2 w-full'>
+            <div className='flex-1 flex items-center justify-between bg-slate-100 rounded-xl text-sm px-6 py-2 w-full'>
                 <input
                     type='text'
                     placeholder='Write a comment...'
@@ -29,7 +29,7 @@ export const Comments = () => {
             </div>
         </div>
         {/* COMMENTS */}
-        <div className=''>
+        <div>
             {/* COMMENT */}
             <div className='flex gap-4 justify-between mt-6'>
                 {/* AVATAR */}
@@ -46,7 +46,7 @@ export const Comments = () => {
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and 
                         typesetting industry. Lorem Ipsum has been the 
-                        industry's standard dummy text ever since the 1500s, 
+                        industry&apos;s standard dummy text ever since the 1500s, 
                         when an unknown printer took a galley of type and 
                         scrambled it to make a type specimen book.
                     </p>
@@ -62,7 +62,7 @@ export const Comments = () => {
                             <span className='text-gray-300'>|</span>
                             <span className='text-gray-500'>123 Likes</span>
                         </div>
-                        <div className=''>Reply</div>
+                        <div>Reply</div>
                     </div>
                 </div>
                 {/* ICON */}

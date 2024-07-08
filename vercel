@@ -1,0 +1,3 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      820     776     820      53500  cons0     197609 20:00:02 /usr/bin/PS
+      776       1     776       7512  cons0     197609 20:00:00 /usr/bin/bash
