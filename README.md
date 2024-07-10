@@ -13,8 +13,7 @@ TypeScript
 React
 Nextjs
 TailWind
-Auth Clark Talvez
-MySql
+Auth Clark
 ```
 
 <div align="center">
