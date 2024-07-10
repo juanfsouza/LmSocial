@@ -14,6 +14,7 @@ React
 Nextjs
 TailWind
 Auth Clark
+Mongodb
 ```
 
 <div align="center">
@@ -60,6 +61,27 @@ Adicionado:
 <div align="center">
   
 ![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/50b268d8-c424-4510-b29e-2191efa53e8a)
+
+</div>
+
+<div align="center">
+  
+## Versão v1.2
+  
+</div>
+
+Adicionado:
+
+```
+✅ Finaly React Next.js Social Media App User Profile Page Design
+✅ Next.js Mongodb Installation with VPS
+✅ Next.js 15 Prisma CRUD Tutorial
+✅ Prisma ORM Social Media App Database Design
+```
+
+<div align="center">
+  
+![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/ddd67ecd-1247-4680-8ba5-65b6def25875)
 
 </div>
 
