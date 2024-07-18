@@ -5,8 +5,25 @@ import { LeftMenu } from '@/app/components/LeftMenu';
 import { RightMenu } from '@/app/components/RightMenu';
 import React from 'react';
 import Image from 'next/image';
+import prisma from '@/app/lib/client';
 
-const ProfilePage = () => {
+const ProfilePage = async ({ params }: { params: {username: string } }) => {
+  const username = params.username;
+
+  const user = await prisma.user.findFirst({
+    where: {
+      username,
+    },
+    include: {
+      _count:{
+        select:{
+          followers:true,
+          followings:true,
+          posts:true,
+        }
+      }
+    }
+  });
     return (
         <div className='flex gap-6 pt-6'>
         <div className="hidden xl:block w-[20%]">
