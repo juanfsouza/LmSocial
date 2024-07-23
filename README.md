@@ -14,7 +14,7 @@ React
 Nextjs
 TailWind
 Auth Clark
-Mongodb
+Postgres
 ```
 
 <div align="center">
