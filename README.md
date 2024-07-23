@@ -83,5 +83,14 @@ Adicionado:
   
 ![Screenshot_1](https://github.com/juanfsouza/LmSocial/assets/88254614/ddd67ecd-1247-4680-8ba5-65b6def25875)
 
+</br>
+
+## Finish Version
+
+![Screenshot_4](https://github.com/user-attachments/assets/97f49266-89dd-49bf-991c-189cb1da5bc1)
+
+![Screenshot_5](https://github.com/user-attachments/assets/1c4fe2dd-534a-42c3-80a8-47d610dd34bc)
+
+
 </div>
 
