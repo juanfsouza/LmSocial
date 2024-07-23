@@ -12,7 +12,7 @@ const nextConfig = {
         hostname: 'images.pexels.com',
       },
       {
-        protocol: 'http',
+        protocol: 'https', // Make sure the protocol matches the URL scheme
         hostname: 'img.clerk.com',
       },
     ],

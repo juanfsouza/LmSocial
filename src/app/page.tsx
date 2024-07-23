@@ -1,12 +1,13 @@
-import { LeftMenu } from "./components/LeftMenu"
-import { Stories } from "./components/Stories"
-import { AddPost } from './components/AddPost';
-import { Feed } from './components/Feed';
-import { RightMenu } from "./components/RightMenu";
+
+import AddPost from "@/components/AddPost";
+import Stories from "@/components/Stories";
+import Feed from "@/components/feed/Feed";
+import LeftMenu from "@/components/leftMenu/LeftMenu";
+import RightMenu from "@/components/rightMenu/RightMenu";
 
 const Homepage = () => {
   return (
-    <div className='flex gap-6 pt-6'>
+    <div className="flex gap-6 pt-6">
       <div className="hidden xl:block w-[20%]">
         <LeftMenu type="home" />
       </div>
@@ -24,4 +25,4 @@ const Homepage = () => {
   );
 };
 
-export default Homepage
+export default Homepage;
