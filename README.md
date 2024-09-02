@@ -1,7 +1,7 @@
 <div align="center">
   
 # LAMASOCIAL
-Esse projeto e para aprimorar minha abilidades e ver ate aonde consigo chegar a intenção e desvolver uma rede social quanto no front e back end.
+Esse projeto e para aprimorar minha habilidades e ver ate aonde consigo chegar a intenção e desvolver uma rede social quanto no front e back end.
 
 </div>
 
